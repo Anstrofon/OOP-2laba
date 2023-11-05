@@ -110,11 +110,6 @@ void Polynom::multi_const(const int co)
 }
 
 
-
-
-
-
-
 ostream& operator<<(ostream& out, Polynom& a)
 {
 	string op = "+";
